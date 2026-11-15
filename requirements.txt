@@ -1,0 +1,9 @@
+streamlit
+numpy
+pandas
+plotly
+torch
+SimpleITK
+scipy
+msgpack
+protobuf
